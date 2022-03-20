@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Lurulai
-- 👀 I’m interested in ...  
-          I thoroughly enjoy anything related to software-to-hardware or PCB assembling, though I wish to develop elsewhere.
-- 🌱 I’m currently learning ...  
-          I'm picking up C due to my current involvement in Applied Computer Science.
-- 💞️ I’m looking to collaborate on ...  
-          Anything that teaches me something I don't know at a reasonable pace and within expectations.
-- 📫 How to reach me ...  
-          hello.victoria@outlook.ie for any inquiries.
+## Hi! I’m @Lurulai
+- I’m interested in Mathematics and all its applications within programming.
+- I’m currently learning many things! More will continue coming.
+- I’m looking to collaborate on anything that sounds fun!
+- How to reach me ...  
+          Send me a pigeon mail :)
 
 <!---
 Lurulai/Lurulai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
