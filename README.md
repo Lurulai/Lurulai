@@ -5,7 +5,7 @@
 - How to reach me ...  
           Send me a pigeon mail :)
 
-"You are more informative than segmentation fault." - Nischal
+"You are more informative than segmentation fault." - Nischal, 2022
 
 <!---
 Lurulai/Lurulai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
