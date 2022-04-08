@@ -6,6 +6,8 @@
           Send me a pigeon mail :)
 
 "You are more informative than segmentation fault." - Nischal, 2022
+"Listening to you talk makes me so happy I ignore my work." - Jade, 2022
+"You tell interesting stories all the time" - Remy & Jade, 2022
 
 <!---
 Lurulai/Lurulai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
