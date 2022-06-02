@@ -8,7 +8,7 @@
 "You are more informative than segmentation fault." - Nischal, 2022<br>
 </br>"Listening to you talk makes me so happy I ignore my work." - Jade, 2022<br>
 </br>"You tell interesting stories all the time" - Remy & Jade, 2022<br>
-</br>"You're very good at annoying teachers" - Remy, 2022
+</br>"You're very good at annoying teachers" - Remy, 2022 (Endorsed by Jade)
 
 <!---
 Lurulai/Lurulai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
