@@ -1,8 +1,7 @@
 ## Hi! I’m @Lurulai
 - I’m interested in Mathematics and all its applications within programming.
 - I’m looking to collaborate on anything that sounds fun!
-- How to reach me ...  
-          Send me a pigeon mail :)
+- In order to reach me, send me a pigeon mail!
 
 "You are more informative than segmentation fault." - Nischal, 2022<br>
 </br>"Listening to you talk makes me so happy I ignore my work." - Jade, 2022<br>
